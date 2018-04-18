@@ -1,2 +1,2 @@
-# Stock Price Prediction using Regression
+# Stock Price Prediction
 
